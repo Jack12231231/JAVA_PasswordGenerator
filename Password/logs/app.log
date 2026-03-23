@@ -1,0 +1,18 @@
+2026-03-22 22:02:20,181 INFO  com.example.password.Main - Приложение Генератор паролей запущено
+2026-03-22 22:02:30,523 INFO  com.example.password.Main - Параметры ввода: длина=5, строчные=true, заглавные=true, цифры=true, спецсимволы=true
+2026-03-22 22:02:30,524 INFO  com.example.password.Generator - Начало генерации пароля длиной 5
+2026-03-22 22:02:30,524 INFO  com.example.password.Generator - Включены строчные буквы
+2026-03-22 22:02:30,524 INFO  com.example.password.Generator - Включены заглавные буквы
+2026-03-22 22:02:30,524 INFO  com.example.password.Generator - Включены цифры
+2026-03-22 22:02:30,525 INFO  com.example.password.Generator - Включены спецсимволы
+2026-03-22 22:02:30,525 INFO  com.example.password.Generator - Пароль успешно сгенерирован: A2!qg
+2026-03-22 22:02:30,526 INFO  com.example.password.Main - Программа завершена
+2026-03-22 22:03:36,368 INFO  com.example.password.Main - Приложение Генератор паролей запущено
+2026-03-22 22:03:50,414 INFO  com.example.password.Main - Параметры ввода: длина=6, строчные=true, заглавные=false, цифры=true, спецсимволы=true
+2026-03-22 22:03:50,415 INFO  com.example.password.Generator - Начало генерации пароля длиной 6
+2026-03-22 22:03:50,415 INFO  com.example.password.Generator - Включены строчные буквы
+2026-03-22 22:03:50,415 INFO  com.example.password.Generator - Включены цифры
+2026-03-22 22:03:50,416 INFO  com.example.password.Generator - Включены спецсимволы
+2026-03-22 22:03:50,416 INFO  com.example.password.Generator - Пароль успешно сгенерирован: *$2kof
+2026-03-22 22:03:50,416 INFO  com.example.password.Main - Программа завершена
+2026-03-22 22:11:29,559 INFO  com.example.password.Main - Приложение Генератор паролей запущено
